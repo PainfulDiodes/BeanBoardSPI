@@ -12,8 +12,13 @@ Blog posts:
 
 &nbsp;
 
+![beanboardspi_populated](images/beanboardspi_populated.jpg)
+BeanBoardSPI populated with Adafruit SPI modules
+
 ![beanboard-spi-pcb-assembled](images/beanboardspi-pcb-assembled.jpg)
+Plugged into BeanBoard with BeanZee, and a TFT panel
 
 ![beanboard-spi-breadboard](images/beanboardspi-breadboard.jpg)
+Breadboarding
 
 ![beanboard-spi-interface](kicad/BeanBoardSPI.png)
