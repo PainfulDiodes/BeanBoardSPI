@@ -12,6 +12,10 @@ Blog posts:
 
 &nbsp;
 
+Thank you to those helpful folks at [PCBWay](https://pcbway.com) who sponsored this build and provided the PCBs!
+
+&nbsp;
+
 ![beanboardspi_populated](images/beanboardspi_populated.jpg)
 BeanBoardSPI populated with Adafruit SPI modules
 
