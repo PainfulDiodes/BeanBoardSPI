@@ -1,6 +1,14 @@
 # Hardware SPI Controller for Beanboard (prototype1)
 
-THIS IS A WORK IN PROGRESS
+Prototype 1 is flawed, but is retained for reference.
+
+There is a problem with the SPI clock. There are jumpers to allow selection of division of the CPU clock (10MHz): /1 /2 /4. I expected to use CLK/4 (2.5 MHz), but this exposed a defect in the design.
+
+At CLK/4 (2.5 MHz) the WR pulse ends before the required rising SCLK edge. This is a problem with using a synchronous load on the shift register.
+
+The board does appear to function correctly at CLK/2, but it is technically out of range for the RA8875 controller.
+
+---
 
 Digital simulation files, schematics and PCB layouts for a hardware SPI controller designed to plug in to a [BeanBoard](https://github.com/PainfulDiodes/BeanBoard).
 
