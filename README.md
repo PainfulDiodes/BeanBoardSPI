@@ -1,4 +1,4 @@
-# Hardware SPI Controller for Beanboard (prototype)
+# Hardware SPI Controller for Beanboard (prototype1)
 
 THIS IS A WORK IN PROGRESS
 
