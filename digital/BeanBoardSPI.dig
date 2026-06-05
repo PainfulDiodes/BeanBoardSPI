@@ -1898,16 +1898,6 @@ Bits</string>
       <pos x="-1940" y="-600"/>
     </visualElement>
     <visualElement>
-      <elementName>Tunnel</elementName>
-      <elementAttributes>
-        <entry>
-          <string>NetName</string>
-          <string>/wr</string>
-        </entry>
-      </elementAttributes>
-      <pos x="-1560" y="-1540"/>
-    </visualElement>
-    <visualElement>
       <elementName>74244.dig</elementName>
       <elementAttributes/>
       <pos x="-140" y="-640"/>
@@ -2555,7 +2545,7 @@ Bits</string>
       <elementAttributes>
         <entry>
           <string>rotation</string>
-          <rotation reference="../../../../visualElement[220]/elementAttributes/entry/rotation"/>
+          <rotation reference="../../../../visualElement[219]/elementAttributes/entry/rotation"/>
         </entry>
         <entry>
           <string>NetName</string>
@@ -2658,12 +2648,26 @@ Bits</string>
       </elementAttributes>
       <pos x="-760" y="-1060"/>
     </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>addValueToGraph</string>
+          <boolean>false</boolean>
+        </entry>
+        <entry>
+          <string>Label</string>
+          <string>/enable-output</string>
+        </entry>
+        <entry>
+          <string>InDefault</string>
+          <value v="1" z="false"/>
+        </entry>
+      </elementAttributes>
+      <pos x="-1640" y="-1540"/>
+    </visualElement>
   </visualElements>
   <wires>
-    <wire>
-      <p1 x="-1580" y="-1540"/>
-      <p2 x="-1560" y="-1540"/>
-    </wire>
     <wire>
       <p1 x="-200" y="-1220"/>
       <p2 x="-160" y="-1220"/>
@@ -2679,6 +2683,10 @@ Bits</string>
     <wire>
       <p1 x="-720" y="-580"/>
       <p2 x="-700" y="-580"/>
+    </wire>
+    <wire>
+      <p1 x="-1640" y="-1540"/>
+      <p2 x="-1580" y="-1540"/>
     </wire>
     <wire>
       <p1 x="480" y="-1160"/>
