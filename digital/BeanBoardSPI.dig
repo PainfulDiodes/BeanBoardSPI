@@ -1931,7 +1931,7 @@ Bits</string>
       <elementAttributes>
         <entry>
           <string>Description</string>
-          <string>Data read buffer</string>
+          <string>Data input buffer</string>
         </entry>
       </elementAttributes>
       <pos x="-180" y="-700"/>
