@@ -27,7 +27,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>data-write</string>
+          <string>data-wr</string>
         </entry>
       </elementAttributes>
       <pos x="140" y="-1080"/>
@@ -47,7 +47,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>data-write</string>
+          <string>data-wr</string>
         </entry>
       </elementAttributes>
       <pos x="-200" y="-1080"/>
@@ -90,7 +90,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>data-write</string>
+          <string>data-wr</string>
         </entry>
       </elementAttributes>
       <pos x="-200" y="-1460"/>
@@ -118,7 +118,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>/data-write</string>
+          <string>/data-wr</string>
         </entry>
       </elementAttributes>
       <pos x="-320" y="-1500"/>
@@ -401,7 +401,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>data-write</string>
+          <string>data-wr</string>
         </entry>
       </elementAttributes>
       <pos x="140" y="-1460"/>
@@ -569,7 +569,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>/data-write</string>
+          <string>/data-wr</string>
         </entry>
       </elementAttributes>
       <pos x="500" y="-1300"/>
@@ -621,7 +621,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>/data-write</string>
+          <string>/data-wr</string>
         </entry>
       </elementAttributes>
       <pos x="20" y="-1500"/>
@@ -635,7 +635,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>/data-write</string>
+          <string>/data-wr</string>
         </entry>
       </elementAttributes>
       <pos x="20" y="-1120"/>
@@ -649,7 +649,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>/data-write</string>
+          <string>/data-wr</string>
         </entry>
       </elementAttributes>
       <pos x="-320" y="-1120"/>
@@ -664,7 +664,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>cpu-clk</string>
+          <string>clk</string>
         </entry>
       </elementAttributes>
       <pos x="-1860" y="-380"/>
@@ -1136,7 +1136,7 @@
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>ctrl-write</string>
+          <string>ctrl-wr</string>
         </entry>
       </elementAttributes>
       <pos x="380" y="-280"/>
@@ -2037,7 +2037,7 @@ Bits</string>
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>/data-read</string>
+          <string>/data-rd</string>
         </entry>
       </elementAttributes>
       <pos x="-20" y="-600"/>
@@ -2051,7 +2051,7 @@ Bits</string>
         </entry>
         <entry>
           <string>NetName</string>
-          <string>/data-read</string>
+          <string>/data-rd</string>
         </entry>
       </elementAttributes>
       <pos x="-140" y="-640"/>
@@ -2414,7 +2414,7 @@ Bits</string>
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>ctrl-write</string>
+          <string>ctrl-wr</string>
         </entry>
       </elementAttributes>
       <pos x="-600" y="-780"/>
@@ -2452,7 +2452,7 @@ Bits</string>
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>/data-read</string>
+          <string>/data-rd</string>
         </entry>
       </elementAttributes>
       <pos x="-500" y="-680"/>
@@ -2462,7 +2462,7 @@ Bits</string>
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>/data-write</string>
+          <string>/data-wr</string>
         </entry>
       </elementAttributes>
       <pos x="-500" y="-560"/>
@@ -2472,7 +2472,7 @@ Bits</string>
       <elementAttributes>
         <entry>
           <string>NetName</string>
-          <string>data-write</string>
+          <string>data-wr</string>
         </entry>
       </elementAttributes>
       <pos x="-500" y="-500"/>
@@ -2583,7 +2583,7 @@ Bits</string>
         </entry>
         <entry>
           <string>NetName</string>
-          <string>cpu-clk</string>
+          <string>clk</string>
         </entry>
       </elementAttributes>
       <pos x="-1000" y="-1420"/>
