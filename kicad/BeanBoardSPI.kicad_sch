@@ -2192,7 +2192,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "TSSOP*4.4x6.5mm*P0.65mm* SSOP*4.4x6.5mm*P0.65mm*"
+			(property "ki_fp_filters" "TSSOP*4.4x6.5mm*P0.65mm* SSOP*4.4x6.5mm*P0.65mm* Package_DIP:DIP-20_W7.62mm"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3506,16 +3506,6 @@
 					)
 				)
 			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
 			(property "ki_keywords" "connector"
 				(at 0 0 0)
 				(show_name no)
@@ -3527,7 +3517,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
+			(property "ki_fp_filters" "Connector*:*_1x??_* AltFootprints:PinHeader_1x03_P2.54mm_Vertical"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -4339,16 +4329,6 @@
 					)
 				)
 			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
 			(property "ki_keywords" "connector"
 				(at 0 0 0)
 				(show_name no)
@@ -4360,7 +4340,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
+			(property "ki_fp_filters" "Connector*:*_1x??_* AltFootprints:PinHeader_1x10_P2.54mm_Vertical"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -6081,16 +6061,6 @@
 					)
 				)
 			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
 			(property "ki_keywords" "connector"
 				(at 0 0 0)
 				(show_name no)
@@ -6102,7 +6072,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
+			(property "ki_fp_filters" "Connector*:*_1x??_* AltFootprints:PinHeader_1x16_P2.54mm_Vertical"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -6928,7 +6898,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Jumper:Jumper_2_Bridged"
+		(symbol "PinHeader_Jumper:Jumper_2_Bridged"
 			(pin_numbers
 				(hide yes)
 			)
@@ -6961,7 +6931,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -7005,7 +6975,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "Jumper* TestPoint*2Pads* TestPoint*Bridge*"
+			(property "ki_fp_filters" "Jumper* TestPoint*2Pads* TestPoint*Bridge* Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -7094,7 +7064,10 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Jumper:Jumper_2_Open"
+		(symbol "PinHeader_Jumper:Jumper_2_Open"
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 0)
 				(hide yes)
@@ -7124,7 +7097,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -7168,7 +7141,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "Jumper* TestPoint*2Pads* TestPoint*Bridge*"
+			(property "ki_fp_filters" "Jumper* TestPoint*2Pads* TestPoint*Bridge* Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -13067,7 +13040,7 @@
 	(symbol
 		(lib_id "74xx:74HC02")
 		(at 87.63 107.95 0)
-		(unit 2)
+		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13175,7 +13148,7 @@
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
 					(reference "U8")
-					(unit 2)
+					(unit 1)
 				)
 			)
 		)
@@ -13285,17 +13258,16 @@
 	(symbol
 		(lib_id "74xx:74HC02")
 		(at 102.87 107.95 0)
-		(unit 3)
+		(unit 2)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "21453fa0-a073-4ff3-a082-594037682672")
-		(property "Reference" "U13"
-			(at 102.87 99.06 0)
+		(property "Reference" "U8"
+			(at 102.87 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13314,7 +13286,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
 			(at 102.87 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -13392,14 +13364,14 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U13")
-					(unit 3)
+					(reference "U8")
+					(unit 2)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Jumper:Jumper_2_Open")
+		(lib_id "PinHeader_Jumper:Jumper_2_Open")
 		(at 163.83 149.86 0)
 		(unit 1)
 		(body_style 1)
@@ -13410,7 +13382,7 @@
 		(dnp no)
 		(uuid "2789ecf6-0e87-4ad5-837c-c82e09519fe9")
 		(property "Reference" "JP1"
-			(at 163.6527 146.4748 0)
+			(at 163.83 147.066 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13419,8 +13391,8 @@
 				)
 			)
 		)
-		(property "Value" "CLK"
-			(at 163.83 146.05 0)
+		(property "Value" "Jumper_2_Open"
+			(at 163.83 152.146 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13452,8 +13424,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Jumper, 2-pole, open"
 			(at 163.83 149.86 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13511,7 +13484,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 275.59 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -13727,7 +13700,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm"
 			(at 223.52 95.25 0)
 			(hide yes)
 			(show_name no)
@@ -13863,7 +13836,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 332.74 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -13987,7 +13960,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
 			(at 11.43 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -14021,46 +13994,46 @@
 			)
 		)
 		(pin "14"
-			(uuid "b7e37bb1-5351-4a33-8700-c2891eb4840b")
+			(uuid "b7e37bb1-5351-4a33-8700-c2891eb4840c")
 		)
 		(pin "11"
-			(uuid "528a5025-b9fe-427a-ba8b-949896ab6d12")
+			(uuid "528a5025-b9fe-427a-ba8b-949896ab6d13")
 		)
 		(pin "12"
-			(uuid "fddb2144-4b65-4489-9e9c-8a45c688e0ed")
+			(uuid "fddb2144-4b65-4489-9e9c-8a45c688e0ee")
 		)
 		(pin "13"
-			(uuid "d889fcd9-f2b4-4a89-91c4-3b0001841369")
+			(uuid "d889fcd9-f2b4-4a89-91c4-3b000184136a")
 		)
 		(pin "7"
-			(uuid "2b3d88af-925b-4865-a36a-1096973c2cd3")
+			(uuid "2b3d88af-925b-4865-a36a-1096973c2cd4")
 		)
 		(pin "8"
-			(uuid "ff6f7aee-5ad3-4ba2-9319-d3ced3908508")
+			(uuid "ff6f7aee-5ad3-4ba2-9319-d3ced3908509")
 		)
 		(pin "9"
-			(uuid "19a3e4a8-7dbd-46df-8bb8-262b1bce2f91")
+			(uuid "19a3e4a8-7dbd-46df-8bb8-262b1bce2f92")
 		)
 		(pin "10"
-			(uuid "cd009ac1-728f-4f6a-8475-a4862b3f4359")
+			(uuid "cd009ac1-728f-4f6a-8475-a4862b3f435a")
 		)
 		(pin "6"
-			(uuid "e7a97c31-ed84-48ea-92d0-48404ffc3d32")
+			(uuid "e7a97c31-ed84-48ea-92d0-48404ffc3d33")
 		)
 		(pin "4"
-			(uuid "dc051516-e5ef-4cf0-a0d6-133602474a33")
+			(uuid "dc051516-e5ef-4cf0-a0d6-133602474a34")
 		)
 		(pin "3"
-			(uuid "9130bbf2-aeb9-4401-b782-3a21eb5f7aff")
+			(uuid "9130bbf2-aeb9-4401-b782-3a21eb5f7b00")
 		)
 		(pin "5"
-			(uuid "e569a39e-9026-4e8e-936b-c3c4de97beec")
+			(uuid "e569a39e-9026-4e8e-936b-c3c4de97beed")
 		)
 		(pin "2"
-			(uuid "918c2d64-bf9e-4bf2-809d-e932b767f829")
+			(uuid "918c2d64-bf9e-4bf2-809d-e932b767f82a")
 		)
 		(pin "1"
-			(uuid "bb2c7520-b017-48d7-ae3d-88b48c17c3b0")
+			(uuid "bb2c7520-b017-48d7-ae3d-88b48c17c3b1")
 		)
 		(instances
 			(project "BeanBoardSPI"
@@ -14521,10 +14494,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "565cca81-f906-46a6-9c79-bbae8b1adc50")
 		(property "Reference" "U13"
-			(at 99.06 69.85 0)
+			(at 99.314 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14535,6 +14507,7 @@
 		)
 		(property "Value" "74HC02"
 			(at 99.06 72.39 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14543,7 +14516,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
 			(at 99.06 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -14577,46 +14550,46 @@
 			)
 		)
 		(pin "14"
-			(uuid "b7e37bb1-5351-4a33-8700-c2891eb4840b")
+			(uuid "b7e37bb1-5351-4a33-8700-c2891eb4840d")
 		)
 		(pin "11"
-			(uuid "528a5025-b9fe-427a-ba8b-949896ab6d12")
+			(uuid "528a5025-b9fe-427a-ba8b-949896ab6d14")
 		)
 		(pin "12"
-			(uuid "fddb2144-4b65-4489-9e9c-8a45c688e0ed")
+			(uuid "fddb2144-4b65-4489-9e9c-8a45c688e0ef")
 		)
 		(pin "13"
-			(uuid "d889fcd9-f2b4-4a89-91c4-3b0001841369")
+			(uuid "d889fcd9-f2b4-4a89-91c4-3b000184136b")
 		)
 		(pin "7"
-			(uuid "2b3d88af-925b-4865-a36a-1096973c2cd3")
+			(uuid "2b3d88af-925b-4865-a36a-1096973c2cd5")
 		)
 		(pin "8"
-			(uuid "ff6f7aee-5ad3-4ba2-9319-d3ced3908508")
+			(uuid "ff6f7aee-5ad3-4ba2-9319-d3ced390850a")
 		)
 		(pin "9"
-			(uuid "19a3e4a8-7dbd-46df-8bb8-262b1bce2f91")
+			(uuid "19a3e4a8-7dbd-46df-8bb8-262b1bce2f93")
 		)
 		(pin "10"
-			(uuid "cd009ac1-728f-4f6a-8475-a4862b3f4359")
+			(uuid "cd009ac1-728f-4f6a-8475-a4862b3f435b")
 		)
 		(pin "6"
-			(uuid "e7a97c31-ed84-48ea-92d0-48404ffc3d32")
+			(uuid "e7a97c31-ed84-48ea-92d0-48404ffc3d34")
 		)
 		(pin "4"
-			(uuid "dc051516-e5ef-4cf0-a0d6-133602474a33")
+			(uuid "dc051516-e5ef-4cf0-a0d6-133602474a35")
 		)
 		(pin "3"
-			(uuid "9130bbf2-aeb9-4401-b782-3a21eb5f7aff")
+			(uuid "9130bbf2-aeb9-4401-b782-3a21eb5f7b01")
 		)
 		(pin "5"
-			(uuid "e569a39e-9026-4e8e-936b-c3c4de97beec")
+			(uuid "e569a39e-9026-4e8e-936b-c3c4de97beee")
 		)
 		(pin "2"
-			(uuid "918c2d64-bf9e-4bf2-809d-e932b767f829")
+			(uuid "918c2d64-bf9e-4bf2-809d-e932b767f82b")
 		)
 		(pin "1"
-			(uuid "bb2c7520-b017-48d7-ae3d-88b48c17c3b0")
+			(uuid "bb2c7520-b017-48d7-ae3d-88b48c17c3b2")
 		)
 		(instances
 			(project "BeanBoardSPI"
@@ -14648,8 +14621,9 @@
 				)
 			)
 		)
-		(property "Value" "Power"
+		(property "Value" "Conn_01x03_Pin"
 			(at 76.2 6.35 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14680,8 +14654,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, single row, 01x03, script generated"
 			(at 73.66 13.97 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14718,10 +14693,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "61f45806-210d-42ab-ae8b-aa0ae41e34b1")
 		(property "Reference" "U13"
-			(at 83.82 69.85 0)
+			(at 84.328 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14732,6 +14706,7 @@
 		)
 		(property "Value" "74HC02"
 			(at 83.82 72.39 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14740,7 +14715,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
 			(at 83.82 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -14774,46 +14749,46 @@
 			)
 		)
 		(pin "14"
-			(uuid "b7e37bb1-5351-4a33-8700-c2891eb4840b")
+			(uuid "b7e37bb1-5351-4a33-8700-c2891eb4840e")
 		)
 		(pin "11"
-			(uuid "528a5025-b9fe-427a-ba8b-949896ab6d12")
+			(uuid "528a5025-b9fe-427a-ba8b-949896ab6d15")
 		)
 		(pin "12"
-			(uuid "fddb2144-4b65-4489-9e9c-8a45c688e0ed")
+			(uuid "fddb2144-4b65-4489-9e9c-8a45c688e0f0")
 		)
 		(pin "13"
-			(uuid "d889fcd9-f2b4-4a89-91c4-3b0001841369")
+			(uuid "d889fcd9-f2b4-4a89-91c4-3b000184136c")
 		)
 		(pin "7"
-			(uuid "2b3d88af-925b-4865-a36a-1096973c2cd3")
+			(uuid "2b3d88af-925b-4865-a36a-1096973c2cd6")
 		)
 		(pin "8"
-			(uuid "ff6f7aee-5ad3-4ba2-9319-d3ced3908508")
+			(uuid "ff6f7aee-5ad3-4ba2-9319-d3ced390850b")
 		)
 		(pin "9"
-			(uuid "19a3e4a8-7dbd-46df-8bb8-262b1bce2f91")
+			(uuid "19a3e4a8-7dbd-46df-8bb8-262b1bce2f94")
 		)
 		(pin "10"
-			(uuid "cd009ac1-728f-4f6a-8475-a4862b3f4359")
+			(uuid "cd009ac1-728f-4f6a-8475-a4862b3f435c")
 		)
 		(pin "6"
-			(uuid "e7a97c31-ed84-48ea-92d0-48404ffc3d32")
+			(uuid "e7a97c31-ed84-48ea-92d0-48404ffc3d35")
 		)
 		(pin "4"
-			(uuid "dc051516-e5ef-4cf0-a0d6-133602474a33")
+			(uuid "dc051516-e5ef-4cf0-a0d6-133602474a36")
 		)
 		(pin "3"
-			(uuid "9130bbf2-aeb9-4401-b782-3a21eb5f7aff")
+			(uuid "9130bbf2-aeb9-4401-b782-3a21eb5f7b02")
 		)
 		(pin "5"
-			(uuid "e569a39e-9026-4e8e-936b-c3c4de97beec")
+			(uuid "e569a39e-9026-4e8e-936b-c3c4de97beef")
 		)
 		(pin "2"
-			(uuid "918c2d64-bf9e-4bf2-809d-e932b767f829")
+			(uuid "918c2d64-bf9e-4bf2-809d-e932b767f82c")
 		)
 		(pin "1"
-			(uuid "bb2c7520-b017-48d7-ae3d-88b48c17c3b0")
+			(uuid "bb2c7520-b017-48d7-ae3d-88b48c17c3b3")
 		)
 		(instances
 			(project "BeanBoardSPI"
@@ -14913,10 +14888,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6a0cb34c-161a-46b8-9fb9-e8f8f46eaa2e")
-		(property "Reference" "U13"
-			(at 101.6 115.57 0)
+		(property "Reference" "U8"
+			(at 101.854 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14927,6 +14901,7 @@
 		)
 		(property "Value" "74HC02"
 			(at 101.6 118.11 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14935,7 +14910,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
 			(at 101.6 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -14969,51 +14944,51 @@
 			)
 		)
 		(pin "14"
-			(uuid "b7e37bb1-5351-4a33-8700-c2891eb4840b")
+			(uuid "b7e37bb1-5351-4a33-8700-c2891eb4840f")
 		)
 		(pin "11"
-			(uuid "528a5025-b9fe-427a-ba8b-949896ab6d12")
+			(uuid "528a5025-b9fe-427a-ba8b-949896ab6d16")
 		)
 		(pin "12"
-			(uuid "fddb2144-4b65-4489-9e9c-8a45c688e0ed")
+			(uuid "fddb2144-4b65-4489-9e9c-8a45c688e0f1")
 		)
 		(pin "13"
-			(uuid "d889fcd9-f2b4-4a89-91c4-3b0001841369")
+			(uuid "d889fcd9-f2b4-4a89-91c4-3b000184136d")
 		)
 		(pin "7"
-			(uuid "2b3d88af-925b-4865-a36a-1096973c2cd3")
+			(uuid "2b3d88af-925b-4865-a36a-1096973c2cd7")
 		)
 		(pin "8"
-			(uuid "ff6f7aee-5ad3-4ba2-9319-d3ced3908508")
+			(uuid "ff6f7aee-5ad3-4ba2-9319-d3ced390850c")
 		)
 		(pin "9"
-			(uuid "19a3e4a8-7dbd-46df-8bb8-262b1bce2f91")
+			(uuid "19a3e4a8-7dbd-46df-8bb8-262b1bce2f95")
 		)
 		(pin "10"
-			(uuid "cd009ac1-728f-4f6a-8475-a4862b3f4359")
+			(uuid "cd009ac1-728f-4f6a-8475-a4862b3f435d")
 		)
 		(pin "6"
-			(uuid "e7a97c31-ed84-48ea-92d0-48404ffc3d32")
+			(uuid "e7a97c31-ed84-48ea-92d0-48404ffc3d36")
 		)
 		(pin "4"
-			(uuid "dc051516-e5ef-4cf0-a0d6-133602474a33")
+			(uuid "dc051516-e5ef-4cf0-a0d6-133602474a37")
 		)
 		(pin "3"
-			(uuid "9130bbf2-aeb9-4401-b782-3a21eb5f7aff")
+			(uuid "9130bbf2-aeb9-4401-b782-3a21eb5f7b03")
 		)
 		(pin "5"
-			(uuid "e569a39e-9026-4e8e-936b-c3c4de97beec")
+			(uuid "e569a39e-9026-4e8e-936b-c3c4de97bef0")
 		)
 		(pin "2"
-			(uuid "918c2d64-bf9e-4bf2-809d-e932b767f829")
+			(uuid "918c2d64-bf9e-4bf2-809d-e932b767f82d")
 		)
 		(pin "1"
-			(uuid "bb2c7520-b017-48d7-ae3d-88b48c17c3b0")
+			(uuid "bb2c7520-b017-48d7-ae3d-88b48c17c3b4")
 		)
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U13")
+					(reference "U8")
 					(unit 4)
 				)
 			)
@@ -15052,7 +15027,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
 			(at 212.09 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -15170,7 +15145,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 332.74 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -15263,7 +15238,7 @@
 	(symbol
 		(lib_id "74xx:74HC02")
 		(at 93.98 90.17 0)
-		(unit 4)
+		(unit 3)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15271,7 +15246,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "779538bf-81e1-4746-8198-887915635fbd")
-		(property "Reference" "U8"
+		(property "Reference" "U13"
 			(at 93.98 90.17 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15370,8 +15345,8 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U8")
-					(unit 4)
+					(reference "U13")
+					(unit 3)
 				)
 			)
 		)
@@ -15456,7 +15431,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:Jumper_2_Bridged")
+		(lib_id "PinHeader_Jumper:Jumper_2_Bridged")
 		(at 163.83 161.29 0)
 		(unit 1)
 		(body_style 1)
@@ -15467,7 +15442,7 @@
 		(dnp no)
 		(uuid "897d503d-6376-4189-94db-a80697bdcbf0")
 		(property "Reference" "JP3"
-			(at 163.8593 159.3734 0)
+			(at 163.83 159.385 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15477,7 +15452,7 @@
 			)
 		)
 		(property "Value" "Jumper_2_Bridged"
-			(at 163.83 158.75 0)
+			(at 163.83 163.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15499,7 +15474,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 161.29 0)
+			(at 163.83 166.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15510,7 +15485,7 @@
 			)
 		)
 		(property "Description" "Jumper, 2-pole, closed/bridged"
-			(at 163.83 161.29 0)
+			(at 163.83 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15649,8 +15624,9 @@
 				)
 			)
 		)
-		(property "Value" "Data / Control"
+		(property "Value" "Conn_01x16_Pin"
 			(at 55.88 8.89 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15681,8 +15657,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, single row, 01x16, script generated"
 			(at 55.88 31.75 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15941,7 +15918,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-20_W7.62mm"
 			(at 223.52 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -16242,7 +16219,7 @@
 	(symbol
 		(lib_id "74xx:74HC02")
 		(at 176.53 142.24 0)
-		(unit 1)
+		(unit 4)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16250,7 +16227,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a738af02-ed60-48c1-81c4-1844ab72e3c8")
-		(property "Reference" "U8"
+		(property "Reference" "U13"
 			(at 176.53 142.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16349,8 +16326,8 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U8")
-					(unit 1)
+					(reference "U13")
+					(unit 4)
 				)
 			)
 		)
@@ -16630,8 +16607,9 @@
 				)
 			)
 		)
-		(property "Value" "GPO"
+		(property "Value" "Conn_01x10_Pin"
 			(at 74.93 24.13 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16662,8 +16640,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, single row, 01x10, script generated"
 			(at 73.66 38.1 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16927,8 +16906,9 @@
 				)
 			)
 		)
-		(property "Value" "GPI"
+		(property "Value" "Conn_01x10_Pin"
 			(at 90.17 24.13 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16959,8 +16939,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, single row, 01x10, script generated"
 			(at 88.9 38.1 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17029,8 +17010,9 @@
 				)
 			)
 		)
-		(property "Value" "Address"
+		(property "Value" "Conn_01x16_Pin"
 			(at 36.83 8.89 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17061,8 +17043,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, single row, 01x16, script generated"
 			(at 34.29 31.75 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17222,7 +17205,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Jumper:Jumper_2_Open")
+		(lib_id "PinHeader_Jumper:Jumper_2_Open")
 		(at 163.83 156.21 0)
 		(unit 1)
 		(body_style 1)
@@ -17233,7 +17216,7 @@
 		(dnp no)
 		(uuid "d23ebbee-8c10-4ae7-994a-398136e47461")
 		(property "Reference" "JP2"
-			(at 163.7904 153.2837 0)
+			(at 163.83 153.416 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17242,8 +17225,8 @@
 				)
 			)
 		)
-		(property "Value" "CLK/2"
-			(at 163.83 152.4 0)
+		(property "Value" "Jumper_2_Open"
+			(at 163.83 158.496 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17275,8 +17258,9 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Jumper, 2-pole, open"
 			(at 163.83 156.21 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17413,7 +17397,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-16_W7.62mm"
 			(at 275.59 152.4 0)
 			(hide yes)
 			(show_name no)
