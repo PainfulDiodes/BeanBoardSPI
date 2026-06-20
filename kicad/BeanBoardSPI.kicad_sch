@@ -12723,7 +12723,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "04a32763-3e2f-4f36-b9b4-10db15650592")
-		(property "Reference" "U9"
+		(property "Reference" "U4"
 			(at 149.86 132.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12822,7 +12822,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U9")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -12839,7 +12839,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "04f60c2e-8720-4806-9865-83e73bd9bb17")
-		(property "Reference" "U8"
+		(property "Reference" "U3"
 			(at 82.55 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12938,7 +12938,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U8")
+					(reference "U3")
 					(unit 3)
 				)
 			)
@@ -12955,7 +12955,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0c26e25f-d945-43fc-bc4e-ea0ab92b7498")
-		(property "Reference" "J6"
+		(property "Reference" "J1011"
 			(at 165.1 7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13031,7 +13031,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "J6")
+					(reference "J1011")
 					(unit 1)
 				)
 			)
@@ -13048,7 +13048,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1419ac47-cb9b-4547-b9b0-0dcc577eac80")
-		(property "Reference" "U8"
+		(property "Reference" "U3"
 			(at 87.63 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13147,7 +13147,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U8")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -13164,7 +13164,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1e06f07f-6dd4-4e64-a448-15382ac4f51c")
-		(property "Reference" "J14"
+		(property "Reference" "J1007"
 			(at 99.06 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13249,7 +13249,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "J14")
+					(reference "J1007")
 					(unit 1)
 				)
 			)
@@ -13266,7 +13266,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "21453fa0-a073-4ff3-a082-594037682672")
-		(property "Reference" "U8"
+		(property "Reference" "U3"
 			(at 102.87 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13364,7 +13364,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U8")
+					(reference "U3")
 					(unit 2)
 				)
 			)
@@ -13381,7 +13381,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2789ecf6-0e87-4ad5-837c-c82e09519fe9")
-		(property "Reference" "JP1"
+		(property "Reference" "JP1001"
 			(at 163.83 147.066 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13444,7 +13444,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "JP1")
+					(reference "JP1001")
 					(unit 1)
 				)
 			)
@@ -13462,7 +13462,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "282cbe0c-e185-4e53-a045-0e6c065f43d4")
-		(property "Reference" "U5"
+		(property "Reference" "U9"
 			(at 277.7333 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13568,7 +13568,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U5")
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -13585,7 +13585,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "28d430e0-30bd-4dcb-b390-3fdc9e411785")
-		(property "Reference" "J7"
+		(property "Reference" "J1012"
 			(at 184.15 7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13661,7 +13661,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "J7")
+					(reference "J1012")
 					(unit 1)
 				)
 			)
@@ -13678,7 +13678,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2a29f24f-05d5-4c1a-afcf-bc81d2fdada6")
-		(property "Reference" "U1"
+		(property "Reference" "U7"
 			(at 215.9 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13794,7 +13794,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U1")
+					(reference "U7")
 					(unit 1)
 				)
 			)
@@ -13812,7 +13812,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b38842d-f364-4e31-b8d2-d2d49d55466f")
-		(property "Reference" "U6"
+		(property "Reference" "U12"
 			(at 334.8833 129.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13918,7 +13918,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U6")
+					(reference "U12")
 					(unit 1)
 				)
 			)
@@ -13936,7 +13936,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37f02a39-add4-4504-80a0-a37006ed1f82")
-		(property "Reference" "U13"
+		(property "Reference" "U2"
 			(at 17.78 158.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14036,7 +14036,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U13")
+					(reference "U2")
 					(unit 5)
 				)
 			)
@@ -14054,7 +14054,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3d264d95-094c-476e-863c-25d3c345842c")
-		(property "Reference" "C4"
+		(property "Reference" "C1004"
 			(at 10.16 45.72 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14115,7 +14115,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "C4")
+					(reference "C1004")
 					(unit 1)
 				)
 			)
@@ -14133,7 +14133,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4b9d783a-e371-4fdd-969c-1dda593d7a98")
-		(property "Reference" "C7"
+		(property "Reference" "C1007"
 			(at 10.16 83.82 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14194,7 +14194,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "C7")
+					(reference "C1007")
 					(unit 1)
 				)
 			)
@@ -14212,7 +14212,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5042918e-aa2e-4241-96d1-94558e96e4c0")
-		(property "Reference" "U10"
+		(property "Reference" "U1"
 			(at 49.1333 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14318,7 +14318,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U10")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -14336,7 +14336,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "51358984-0119-469c-949c-3cfd752b90d2")
-		(property "Reference" "C3"
+		(property "Reference" "C1003"
 			(at 10.16 33.02 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14397,7 +14397,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "C3")
+					(reference "C1003")
 					(unit 1)
 				)
 			)
@@ -14415,7 +14415,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "522404dd-c2db-4503-b31b-6c577fc37384")
-		(property "Reference" "C10"
+		(property "Reference" "C1010"
 			(at 10.16 121.92 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14476,7 +14476,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "C10")
+					(reference "C1010")
 					(unit 1)
 				)
 			)
@@ -14493,7 +14493,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "565cca81-f906-46a6-9c79-bbae8b1adc50")
-		(property "Reference" "U13"
+		(property "Reference" "U2"
 			(at 99.314 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14592,7 +14592,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U13")
+					(reference "U2")
 					(unit 2)
 				)
 			)
@@ -14609,7 +14609,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "60a20fb0-c371-4b8c-863f-cb5303521586")
-		(property "Reference" "J1"
+		(property "Reference" "J1003"
 			(at 73.66 8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14675,7 +14675,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "J1")
+					(reference "J1003")
 					(unit 1)
 				)
 			)
@@ -14692,7 +14692,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "61f45806-210d-42ab-ae8b-aa0ae41e34b1")
-		(property "Reference" "U13"
+		(property "Reference" "U2"
 			(at 84.328 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14791,7 +14791,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U13")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -14809,7 +14809,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "661fbc85-ad20-4de5-bd4d-2606d0acbb2c")
-		(property "Reference" "C1"
+		(property "Reference" "C1001"
 			(at 10.16 7.62 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14870,7 +14870,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "C1")
+					(reference "C1001")
 					(unit 1)
 				)
 			)
@@ -14887,7 +14887,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6a0cb34c-161a-46b8-9fb9-e8f8f46eaa2e")
-		(property "Reference" "U8"
+		(property "Reference" "U3"
 			(at 101.854 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14986,7 +14986,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U8")
+					(reference "U3")
 					(unit 4)
 				)
 			)
@@ -15003,7 +15003,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6e020b67-0087-4587-b251-5b124c5a0021")
-		(property "Reference" "U2"
+		(property "Reference" "U6"
 			(at 195.326 74.676 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15103,7 +15103,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U2")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -15121,7 +15121,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f451b7f-2297-4759-87a3-d21291aa872d")
-		(property "Reference" "U3"
+		(property "Reference" "U11"
 			(at 334.8833 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15227,7 +15227,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U3")
+					(reference "U11")
 					(unit 1)
 				)
 			)
@@ -15244,7 +15244,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "779538bf-81e1-4746-8198-887915635fbd")
-		(property "Reference" "U13"
+		(property "Reference" "U2"
 			(at 93.98 90.17 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15343,7 +15343,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U13")
+					(reference "U2")
 					(unit 3)
 				)
 			)
@@ -15361,7 +15361,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "800f0284-785b-4943-bfa6-b501abcd7c96")
-		(property "Reference" "C8"
+		(property "Reference" "C1008"
 			(at 10.16 96.52 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15422,7 +15422,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "C8")
+					(reference "C1008")
 					(unit 1)
 				)
 			)
@@ -15439,7 +15439,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "897d503d-6376-4189-94db-a80697bdcbf0")
-		(property "Reference" "JP3"
+		(property "Reference" "JP1003"
 			(at 163.83 159.385 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15502,7 +15502,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "JP3")
+					(reference "JP1003")
 					(unit 1)
 				)
 			)
@@ -15519,7 +15519,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8e36b14c-f924-43f9-881f-2cf0084df4b1")
-		(property "Reference" "J10"
+		(property "Reference" "J1015"
 			(at 241.3 7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15595,7 +15595,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "J10")
+					(reference "J1015")
 					(unit 1)
 				)
 			)
@@ -15612,7 +15612,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8f36c09f-6ac9-47ea-9963-5022cf2704ea")
-		(property "Reference" "J3"
+		(property "Reference" "J1002"
 			(at 55.88 11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15717,7 +15717,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "J3")
+					(reference "J1002")
 					(unit 1)
 				)
 			)
@@ -15734,7 +15734,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9b2682b9-a523-4789-b8ea-f8cf9128c7e3")
-		(property "Reference" "J15"
+		(property "Reference" "J1008"
 			(at 102.235 3.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15798,7 +15798,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "J15")
+					(reference "J1008")
 					(unit 1)
 				)
 			)
@@ -15816,7 +15816,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a113202b-c31e-4309-b40c-b3f3e40fa847")
-		(property "Reference" "C5"
+		(property "Reference" "C1005"
 			(at 10.16 58.42 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15877,7 +15877,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "C5")
+					(reference "C1005")
 					(unit 1)
 				)
 			)
@@ -15894,7 +15894,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a13fc6d7-5fb5-42a6-a5b4-a188f80d053b")
-		(property "Reference" "U12"
+		(property "Reference" "U8"
 			(at 215.9 129.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16010,7 +16010,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U12")
+					(reference "U8")
 					(unit 1)
 				)
 			)
@@ -16028,7 +16028,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a153c3e4-5ba6-4228-999f-ace66299824f")
-		(property "Reference" "C2"
+		(property "Reference" "C1002"
 			(at 10.16 20.32 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16089,7 +16089,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "C2")
+					(reference "C1002")
 					(unit 1)
 				)
 			)
@@ -16106,7 +16106,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a43c4b5c-789e-4fc5-869a-3e1b9986159f")
-		(property "Reference" "J4"
+		(property "Reference" "J1009"
 			(at 127 7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16206,7 +16206,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "J4")
+					(reference "J1009")
 					(unit 1)
 				)
 			)
@@ -16223,7 +16223,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a738af02-ed60-48c1-81c4-1844ab72e3c8")
-		(property "Reference" "U13"
+		(property "Reference" "U2"
 			(at 176.53 142.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16322,7 +16322,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U13")
+					(reference "U2")
 					(unit 4)
 				)
 			)
@@ -16340,7 +16340,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a98fc21e-2c5c-47eb-b8af-13f676a96a39")
-		(property "Reference" "U8"
+		(property "Reference" "U3"
 			(at 43.18 158.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16440,7 +16440,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U8")
+					(reference "U3")
 					(unit 5)
 				)
 			)
@@ -16458,7 +16458,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "afd991d8-a841-413b-92f0-ea931b2bcb09")
-		(property "Reference" "U4"
+		(property "Reference" "U5"
 			(at 149.4633 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16576,7 +16576,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U4")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -16593,7 +16593,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b1341d52-7338-48ba-bba3-5bf75ce25d12")
-		(property "Reference" "J12"
+		(property "Reference" "J1004"
 			(at 73.66 25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16680,7 +16680,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "J12")
+					(reference "J1004")
 					(unit 1)
 				)
 			)
@@ -16698,7 +16698,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b7ba4b68-b5b0-4268-baf8-28ce13bd60a3")
-		(property "Reference" "U9"
+		(property "Reference" "U4"
 			(at 64.77 158.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16798,7 +16798,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U9")
+					(reference "U4")
 					(unit 3)
 				)
 			)
@@ -16816,7 +16816,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b7df7b84-bad8-400b-ae4d-ea61be4da3eb")
-		(property "Reference" "#FLG02"
+		(property "Reference" "#FLG01002"
 			(at 85.09 15.875 0)
 			(hide yes)
 			(show_name no)
@@ -16875,7 +16875,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "#FLG02")
+					(reference "#FLG01002")
 					(unit 1)
 				)
 			)
@@ -16892,7 +16892,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bc01392d-c83a-4da0-95da-9cc9295319c7")
-		(property "Reference" "J13"
+		(property "Reference" "J1006"
 			(at 88.9 25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16979,7 +16979,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "J13")
+					(reference "J1006")
 					(unit 1)
 				)
 			)
@@ -16996,7 +16996,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c4133768-5205-4aa1-91b5-d2fb3c713a60")
-		(property "Reference" "J2"
+		(property "Reference" "J1001"
 			(at 34.29 11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17101,7 +17101,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "J2")
+					(reference "J1001")
 					(unit 1)
 				)
 			)
@@ -17118,7 +17118,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d14d8561-58e2-49a9-9e7e-590111d794db")
-		(property "Reference" "J9"
+		(property "Reference" "J1014"
 			(at 222.25 7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17194,7 +17194,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "J9")
+					(reference "J1014")
 					(unit 1)
 				)
 			)
@@ -17211,7 +17211,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d23ebbee-8c10-4ae7-994a-398136e47461")
-		(property "Reference" "JP2"
+		(property "Reference" "JP1002"
 			(at 163.83 153.416 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17274,7 +17274,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "JP2")
+					(reference "JP1002")
 					(unit 1)
 				)
 			)
@@ -17292,7 +17292,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e2618576-ff9a-4038-989d-3a0cfdf7f0ac")
-		(property "Reference" "C9"
+		(property "Reference" "C1009"
 			(at 10.16 109.22 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17353,7 +17353,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "C9")
+					(reference "C1009")
 					(unit 1)
 				)
 			)
@@ -17371,7 +17371,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ef73ccb0-dfe9-4f6c-bb59-78170983066f")
-		(property "Reference" "U11"
+		(property "Reference" "U10"
 			(at 277.7333 129.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17477,7 +17477,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U11")
+					(reference "U10")
 					(unit 1)
 				)
 			)
@@ -17494,7 +17494,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f0c0705c-69c4-429e-883e-7856ff204a02")
-		(property "Reference" "J5"
+		(property "Reference" "J1010"
 			(at 146.05 7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17570,7 +17570,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "J5")
+					(reference "J1010")
 					(unit 1)
 				)
 			)
@@ -17588,7 +17588,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f416f647-17d4-480f-b902-8384a0e089dd")
-		(property "Reference" "C6"
+		(property "Reference" "C1006"
 			(at 10.16 71.12 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17649,7 +17649,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "C6")
+					(reference "C1006")
 					(unit 1)
 				)
 			)
@@ -17666,7 +17666,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f481012b-c255-4c93-950c-55287322e496")
-		(property "Reference" "J11"
+		(property "Reference" "J1005"
 			(at 83.82 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17751,7 +17751,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "J11")
+					(reference "J1005")
 					(unit 1)
 				)
 			)
@@ -17768,7 +17768,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f7e9b5fb-126e-4909-b42e-5acded3892fb")
-		(property "Reference" "U9"
+		(property "Reference" "U4"
 			(at 132.08 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17867,7 +17867,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "U9")
+					(reference "U4")
 					(unit 2)
 				)
 			)
@@ -17884,7 +17884,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f8a811f6-6209-4c83-be21-600f1ac01129")
-		(property "Reference" "#FLG01"
+		(property "Reference" "#FLG01001"
 			(at 85.09 9.525 0)
 			(hide yes)
 			(show_name no)
@@ -17943,7 +17943,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "#FLG01")
+					(reference "#FLG01001")
 					(unit 1)
 				)
 			)
@@ -17960,7 +17960,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fd2da3f1-e2d0-45c4-9223-5b9dbf8881b2")
-		(property "Reference" "J8"
+		(property "Reference" "J1013"
 			(at 203.2 7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18036,7 +18036,7 @@
 		(instances
 			(project "BeanBoardSPI"
 				(path "/6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
-					(reference "J8")
+					(reference "J1013")
 					(unit 1)
 				)
 			)
