@@ -1244,16 +1244,16 @@
 			)
 		)
 	)
-	(footprint "Package_DIP:DIP-16_W7.62mm"
+	(footprint "Package_DIP:DIP-16_W7.62mm_Socket"
 		(layer "F.Cu")
 		(uuid "10d99ecb-c0af-4695-9d03-84f3ac77731f")
-		(at 290.576745 -70.935686)
-		(descr "16-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils)")
-		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
+		(at 267.462745 48.190314)
+		(descr "16-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
+		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U10"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
-			(uuid "724c4a01-05e7-46bb-b6ae-c951bf07f744")
+			(uuid "ce1dbb1b-d394-442e-8dba-bab4cd3848c0")
 			(effects
 				(font
 					(size 1 1)
@@ -1264,7 +1264,7 @@
 		(property "Value" "74HC165"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
-			(uuid "3a856fa3-3040-48a9-9eef-6ab2f969e0e7")
+			(uuid "98965f49-5708-4675-b4cd-dccb311ee24e")
 			(effects
 				(font
 					(size 1 1)
@@ -1276,7 +1276,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fa38037b-f8bd-4512-97a0-0bdec17a9e8e")
+			(uuid "b49a18c9-d4ee-409c-96a9-e91e04ff6654")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1287,7 +1287,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "abc20995-7a2f-40c5-83b7-c23b8af12c71")
+			(uuid "a2dc4edb-9f2f-41d9-b8ad-4718205f1a4d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1358,6 +1358,17 @@
 			(layer "F.SilkS")
 			(uuid "0b46db9c-92bb-4615-bfc8-3c8602bc0101")
 		)
+		(fp_rect
+			(start -1.33 -1.39)
+			(end 8.95 19.17)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "8eae7423-de1f-47ec-8970-fe9ee0dd385c")
+		)
 		(fp_arc
 			(start 4.81 -1.33)
 			(mid 3.81 -0.33)
@@ -1370,8 +1381,8 @@
 			(uuid "c2beabb4-2ad1-4d30-a032-547a92449937")
 		)
 		(fp_rect
-			(start -1.06 -1.52)
-			(end 8.67 19.3)
+			(start -1.52 -1.58)
+			(end 9.14 19.36)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -1430,6 +1441,17 @@
 			(layer "F.Fab")
 			(uuid "fd4e4d74-513a-41ec-a41d-eb83bc638a3b")
 		)
+		(fp_rect
+			(start -1.27 -1.33)
+			(end 8.89 19.11)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "8751c9ab-108f-499e-b9bb-5a2835dbeab4")
+		)
 		(fp_text user "${REFERENCE}"
 			(at 3.81 8.89 90)
 			(layer "F.Fab")
@@ -1442,7 +1464,7 @@
 			)
 		)
 		(point
-			(at 294.386745 -62.045686)
+			(at 271.272745 57.080314)
 			(size 1.27)
 			(layer "F.Fab")
 			(uuid "c115b294-78f7-4b84-ab40-79e0dd072985")
@@ -1625,7 +1647,7 @@
 			(uuid "d621f7a7-c417-43b2-bad9-cc7c3e814d81")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-16_W7.62mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-16_W7.62mm_Socket.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1907,12 +1929,12 @@
 			)
 		)
 	)
-	(footprint "Package_DIP:DIP-20_W7.62mm"
+	(footprint "Package_DIP:DIP-20_W7.62mm_Socket"
 		(layer "F.Cu")
 		(uuid "25ae1618-baab-4c4b-8785-a1cf9592d153")
-		(at 206.761745 -70.935686)
-		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils)")
-		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
+		(at 240.642345 20.564314)
+		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
+		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U7"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
@@ -2021,6 +2043,17 @@
 			(layer "F.SilkS")
 			(uuid "df7aa854-0942-4e6b-b5bc-627e93107d1a")
 		)
+		(fp_rect
+			(start -1.33 -1.39)
+			(end 8.95 24.25)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "acf98593-add2-4282-b991-ac6214d7a890")
+		)
 		(fp_arc
 			(start 4.81 -1.33)
 			(mid 3.81 -0.33)
@@ -2033,8 +2066,8 @@
 			(uuid "e1863a05-7add-49e6-b5ca-88834ff7b4f1")
 		)
 		(fp_rect
-			(start -1.06 -1.52)
-			(end 8.67 24.38)
+			(start -1.52 -1.58)
+			(end 9.14 24.44)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -2093,6 +2126,17 @@
 			(layer "F.Fab")
 			(uuid "88538be1-d73d-4efe-a247-77f878621dc4")
 		)
+		(fp_rect
+			(start -1.27 -1.33)
+			(end 8.89 24.19)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "4e0fa6ef-9858-4640-aa12-443b2b139b20")
+		)
 		(fp_text user "${REFERENCE}"
 			(at 3.81 11.43 90)
 			(layer "F.Fab")
@@ -2105,7 +2149,7 @@
 			)
 		)
 		(point
-			(at 210.571745 -59.505686)
+			(at 244.452345 31.994314)
 			(size 1.27)
 			(layer "F.Fab")
 			(uuid "b8d503f9-139d-4d49-9b5b-7ea698705c09")
@@ -2332,7 +2376,7 @@
 			(uuid "fe18cfb5-9ad3-4e44-bc8c-0a85dca9cae5")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-20_W7.62mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-20_W7.62mm_Socket.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4259,16 +4303,16 @@
 			)
 		)
 	)
-	(footprint "Package_DIP:DIP-16_W7.62mm"
+	(footprint "Package_DIP:DIP-16_W7.62mm_Socket"
 		(layer "F.Cu")
 		(uuid "576e1ea3-61c9-47b4-81de-87fa8a5fc1e0")
-		(at 271.526745 -70.935686)
-		(descr "16-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils)")
-		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
+		(at 254.052545 48.190314)
+		(descr "16-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
+		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U12"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
-			(uuid "a40e246d-3ff2-4766-ae06-f4de28a0dc30")
+			(uuid "3b1fc74d-9801-4894-bdb9-319f02ca6f1c")
 			(effects
 				(font
 					(size 1 1)
@@ -4279,7 +4323,7 @@
 		(property "Value" "74HC165"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
-			(uuid "a5b74a9d-470f-4889-8ab6-9a8d2228873b")
+			(uuid "511d1a55-2139-442c-856d-ea80ad2a97d7")
 			(effects
 				(font
 					(size 1 1)
@@ -4291,7 +4335,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a8656359-3afb-4bf8-a83f-510848f0815f")
+			(uuid "418e7b76-bf6b-45f2-8641-27fb211228bc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4302,7 +4346,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "85d86eda-5c72-494e-9bb6-fae1b339508f")
+			(uuid "7b99d53d-2709-4267-a9e1-302fb431bb19")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4373,6 +4417,17 @@
 			(layer "F.SilkS")
 			(uuid "02649d64-d231-40ca-9972-ea110d361a9c")
 		)
+		(fp_rect
+			(start -1.33 -1.39)
+			(end 8.95 19.17)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "461dbf25-73c0-4413-8b8b-fe8001e5ecc9")
+		)
 		(fp_arc
 			(start 4.81 -1.33)
 			(mid 3.81 -0.33)
@@ -4385,8 +4440,8 @@
 			(uuid "7af6ddaa-c4de-4275-b7ae-0e62baf503ac")
 		)
 		(fp_rect
-			(start -1.06 -1.52)
-			(end 8.67 19.3)
+			(start -1.52 -1.58)
+			(end 9.14 19.36)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -4445,6 +4500,17 @@
 			(layer "F.Fab")
 			(uuid "e8985dbe-4a65-4b9a-9a5a-0e7aa5c8c90f")
 		)
+		(fp_rect
+			(start -1.27 -1.33)
+			(end 8.89 19.11)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "edb51b91-efa8-45ab-8058-7ba95f883d2a")
+		)
 		(fp_text user "${REFERENCE}"
 			(at 3.81 8.89 90)
 			(layer "F.Fab")
@@ -4457,7 +4523,7 @@
 			)
 		)
 		(point
-			(at 275.336745 -62.045686)
+			(at 257.862545 57.080314)
 			(size 1.27)
 			(layer "F.Fab")
 			(uuid "b7a0b451-712f-4771-8723-85c373cdda39")
@@ -4640,7 +4706,7 @@
 			(uuid "db593cc8-b3a2-4a4b-8467-12a4e36d813a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-16_W7.62mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-16_W7.62mm_Socket.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4655,13 +4721,13 @@
 	(footprint "Package_DIP:DIP-14_W7.62mm_Socket"
 		(layer "F.Cu")
 		(uuid "587c08bb-580a-4cdc-a5f1-e61b98965342")
-		(at 342.138745 23.044314)
+		(at 267.922745 28.124314)
 		(descr "14-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U4"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
-			(uuid "f974d6e8-325e-427c-9974-b4803d82ea43")
+			(uuid "dde7a1e6-70c2-4c27-89a9-30ee2e4eccfb")
 			(effects
 				(font
 					(size 1 1)
@@ -4672,7 +4738,7 @@
 		(property "Value" "74HC74"
 			(at 3.81 17.57 0)
 			(layer "F.Fab")
-			(uuid "9e8046af-5293-470d-837a-cefbdc5ff52f")
+			(uuid "e7426418-ac0d-41cd-bcbf-f3f2613eae6d")
 			(effects
 				(font
 					(size 1 1)
@@ -4684,7 +4750,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "88852a79-1c15-4a00-b602-e70e31cd168c")
+			(uuid "f9510725-f2df-46cf-80bd-79ebf525ab24")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4695,7 +4761,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e93b17d7-2cc2-47bb-830d-f21acc2cf7b7")
+			(uuid "ec8d2dfc-9fae-4fda-a4e6-2a3dc335cc76")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4878,7 +4944,7 @@
 			)
 		)
 		(point
-			(at 345.948745 30.664314)
+			(at 271.732745 35.744314)
 			(size 1.27)
 			(layer "F.Fab")
 			(uuid "ce1b6ff6-1fd2-40d8-99c9-917dd24af70a")
@@ -5051,16 +5117,16 @@
 			)
 		)
 	)
-	(footprint "Package_DIP:DIP-16_W7.62mm"
+	(footprint "Package_DIP:DIP-16_W7.62mm_Socket"
 		(layer "F.Cu")
 		(uuid "5b04a419-e999-44c7-8d26-e2e90ea297c2")
-		(at 252.222745 -70.935686)
-		(descr "16-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils)")
-		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
+		(at 240.642345 48.190314)
+		(descr "16-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
+		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U11"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
-			(uuid "d8e2b7a2-259c-483f-9457-d71f618e81d7")
+			(uuid "663b4bb8-901a-4279-b186-bc6e147f77f5")
 			(effects
 				(font
 					(size 1 1)
@@ -5071,7 +5137,7 @@
 		(property "Value" "74HC165"
 			(at 3.81 20.11 0)
 			(layer "F.Fab")
-			(uuid "f65af6bb-c6eb-4ca4-b557-fb7271dcbd61")
+			(uuid "7fdfc059-4398-459e-8c57-d3369a45509d")
 			(effects
 				(font
 					(size 1 1)
@@ -5083,7 +5149,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "355f01a3-71e6-4e5e-b9e2-60fc314c0cc7")
+			(uuid "2dfbc3bd-4cc5-4db0-bf77-14fb93c5ad49")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5094,7 +5160,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "384f2584-98f3-4e0f-ab3b-e73eee5e37b7")
+			(uuid "01fdaa1b-5b11-400a-ab11-57cd565598c6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5165,6 +5231,17 @@
 			(layer "F.SilkS")
 			(uuid "48f97b89-ca44-4c14-9b90-4c51cc41da9c")
 		)
+		(fp_rect
+			(start -1.33 -1.39)
+			(end 8.95 19.17)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "a8264a28-7dd8-46d3-a2b3-b83c9bf9462f")
+		)
 		(fp_arc
 			(start 4.81 -1.33)
 			(mid 3.81 -0.33)
@@ -5177,8 +5254,8 @@
 			(uuid "8795c985-7eb5-4a8e-9c45-508e4ac498e1")
 		)
 		(fp_rect
-			(start -1.06 -1.52)
-			(end 8.67 19.3)
+			(start -1.52 -1.58)
+			(end 9.14 19.36)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -5237,6 +5314,17 @@
 			(layer "F.Fab")
 			(uuid "bf1f739f-199b-4437-a7da-37dc21db2f71")
 		)
+		(fp_rect
+			(start -1.27 -1.33)
+			(end 8.89 19.11)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "04a4454b-ffca-4de3-974d-da8761ecd487")
+		)
 		(fp_text user "${REFERENCE}"
 			(at 3.81 8.89 90)
 			(layer "F.Fab")
@@ -5249,7 +5337,7 @@
 			)
 		)
 		(point
-			(at 256.032745 -62.045686)
+			(at 244.452345 57.080314)
 			(size 1.27)
 			(layer "F.Fab")
 			(uuid "330a7fe6-deff-476a-9da0-d4a2c8c31f11")
@@ -5432,7 +5520,7 @@
 			(uuid "8dbbc976-e9da-4429-9395-14e22c45a534")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-16_W7.62mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-16_W7.62mm_Socket.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6254,12 +6342,12 @@
 			)
 		)
 	)
-	(footprint "Package_DIP:DIP-16_W7.62mm"
+	(footprint "Package_DIP:DIP-16_W7.62mm_Socket"
 		(layer "F.Cu")
 		(uuid "8b134c89-56c6-455c-acea-768836ae9908")
-		(at 167.899745 -71.443686)
-		(descr "16-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils)")
-		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
+		(at 199.946745 25.644314)
+		(descr "16-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
+		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U9"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
@@ -6368,6 +6456,17 @@
 			(layer "F.SilkS")
 			(uuid "329acc58-336d-4443-8931-574770b0ce0b")
 		)
+		(fp_rect
+			(start -1.33 -1.39)
+			(end 8.95 19.17)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "1c3923a0-09a0-4e20-bdf6-1c3708ba6093")
+		)
 		(fp_arc
 			(start 4.81 -1.33)
 			(mid 3.81 -0.33)
@@ -6380,8 +6479,8 @@
 			(uuid "a3d664b7-76dd-4a56-86db-b0a69f3987cd")
 		)
 		(fp_rect
-			(start -1.06 -1.52)
-			(end 8.67 19.3)
+			(start -1.52 -1.58)
+			(end 9.14 19.36)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -6440,6 +6539,17 @@
 			(layer "F.Fab")
 			(uuid "cc2f5115-8dae-4b96-8e31-a4ac6b55f26f")
 		)
+		(fp_rect
+			(start -1.27 -1.33)
+			(end 8.89 19.11)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "3296c47f-3fef-433a-a611-2a57233ce743")
+		)
 		(fp_text user "${REFERENCE}"
 			(at 3.81 8.89 90)
 			(layer "F.Fab")
@@ -6452,7 +6562,7 @@
 			)
 		)
 		(point
-			(at 171.709745 -62.553686)
+			(at 203.756745 34.534314)
 			(size 1.27)
 			(layer "F.Fab")
 			(uuid "0d16fb2b-6ae2-421a-8ec3-c611bc7cc157")
@@ -6635,7 +6745,7 @@
 			(uuid "014cc087-0b16-464f-8c74-907ce36313d9")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-16_W7.62mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-16_W7.62mm_Socket.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -7391,7 +7501,7 @@
 	(footprint "Package_DIP:DIP-16_W7.62mm_Socket"
 		(layer "F.Cu")
 		(uuid "a2e209a3-a40e-4947-bfb8-32679d784bbc")
-		(at 113.792745 -92.779686)
+		(at 200.406745 48.250314)
 		(descr "16-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U1"
@@ -7608,7 +7718,7 @@
 			)
 		)
 		(point
-			(at 117.602745 -83.889686)
+			(at 204.216745 57.140314)
 			(size 1.27)
 			(layer "F.Fab")
 			(uuid "0bbec2d4-2a03-4c50-b5f8-91b0d0dd54d4")
@@ -7806,13 +7916,13 @@
 	(footprint "Package_DIP:DIP-14_W7.62mm_Socket"
 		(layer "F.Cu")
 		(uuid "ac63bc9f-227f-4505-8e6d-902bd254ff2e")
-		(at 150.114745 -95.827686)
+		(at 227.227145 48.260314)
 		(descr "14-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U3"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
-			(uuid "98ba4002-9327-4b37-ab25-83ad04ee1f06")
+			(uuid "df5d2f85-fb1d-4cec-b984-d8afe19c984c")
 			(effects
 				(font
 					(size 1 1)
@@ -7823,7 +7933,7 @@
 		(property "Value" "74HC02"
 			(at 3.81 17.57 0)
 			(layer "F.Fab")
-			(uuid "d2ce45c9-ae9a-43c3-81d4-17e9b2b66a77")
+			(uuid "cbbc7409-92a3-4e79-8edb-dbf28ee0d474")
 			(effects
 				(font
 					(size 1 1)
@@ -7835,7 +7945,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b8c1ccb9-b591-4d71-91a0-27d488146b14")
+			(uuid "0bbdc83d-b67d-4ff3-90ae-d202cf294498")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7846,7 +7956,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a9a19530-7b49-4bee-9478-a1f7d3a29df5")
+			(uuid "ae70fbc3-4066-45d8-b114-0f980753cc34")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8037,7 +8147,7 @@
 			)
 		)
 		(point
-			(at 153.924745 -88.207686)
+			(at 231.037145 55.880314)
 			(size 1.27)
 			(layer "F.Fab")
 			(uuid "5a91bbee-4a3e-4465-9665-c10f8a62e879")
@@ -9840,16 +9950,16 @@
 			)
 		)
 	)
-	(footprint "Package_DIP:DIP-20_W7.62mm"
+	(footprint "Package_DIP:DIP-20_W7.62mm_Socket"
 		(layer "F.Cu")
 		(uuid "db39dfa9-49bd-4c5a-8f2b-8d422980663a")
-		(at 194.564745 -71.189686)
-		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils)")
-		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
+		(at 226.767145 20.564314)
+		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
+		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U8"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
-			(uuid "d22a4be5-aa39-4578-a50f-a9f518cdea70")
+			(uuid "372d1773-7cf4-49bf-a36d-a49c5d53215c")
 			(effects
 				(font
 					(size 1 1)
@@ -9860,7 +9970,7 @@
 		(property "Value" "74HC244"
 			(at 3.81 25.19 0)
 			(layer "F.Fab")
-			(uuid "ac980ab8-f9b2-4f14-a830-c2e37a9dc49b")
+			(uuid "03c78a27-291d-46ea-8705-dc3903a6bfb9")
 			(effects
 				(font
 					(size 1 1)
@@ -9872,7 +9982,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b6883417-54bd-48eb-ae4d-81c3d3ba0316")
+			(uuid "7491618a-53be-4194-985a-483c2eedae43")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9883,7 +9993,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f36c5f94-a4f2-422e-a9b2-f95df870da3e")
+			(uuid "5882f293-69d7-423f-8f89-f7abca09a85d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9954,6 +10064,17 @@
 			(layer "F.SilkS")
 			(uuid "4c038c74-1427-45f6-bb0b-0967a0a46c53")
 		)
+		(fp_rect
+			(start -1.33 -1.39)
+			(end 8.95 24.25)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "4ec1fc1a-f058-4659-b8b8-db35d92bbefd")
+		)
 		(fp_arc
 			(start 4.81 -1.33)
 			(mid 3.81 -0.33)
@@ -9966,8 +10087,8 @@
 			(uuid "a685acab-cc50-4c60-a442-823700294439")
 		)
 		(fp_rect
-			(start -1.06 -1.52)
-			(end 8.67 24.38)
+			(start -1.52 -1.58)
+			(end 9.14 24.44)
 			(stroke
 				(width 0.05)
 				(type solid)
@@ -10026,6 +10147,17 @@
 			(layer "F.Fab")
 			(uuid "48204639-2665-4489-acbd-3e8f7315ab93")
 		)
+		(fp_rect
+			(start -1.27 -1.33)
+			(end 8.89 24.19)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "8eb25936-c369-42ad-84e1-7ce2ecafd415")
+		)
 		(fp_text user "${REFERENCE}"
 			(at 3.81 11.43 90)
 			(layer "F.Fab")
@@ -10038,7 +10170,7 @@
 			)
 		)
 		(point
-			(at 198.374745 -59.759686)
+			(at 230.577145 31.994314)
 			(size 1.27)
 			(layer "F.Fab")
 			(uuid "a6eb491d-6a3c-4965-980f-33ccf61d4db5")
@@ -10265,7 +10397,7 @@
 			(uuid "4cef55d9-ff91-4c2d-b756-e080fff86aac")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-20_W7.62mm.step"
+		(model "${KICAD10_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-20_W7.62mm_Socket.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -10851,7 +10983,7 @@
 	(footprint "Package_DIP:DIP-20_W7.62mm_Socket"
 		(layer "F.Cu")
 		(uuid "e31b8afa-2d7e-448b-bd61-ce71398e0a3b")
-		(at 181.356745 -71.697686)
+		(at 213.816945 20.504314)
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U5"
@@ -11068,7 +11200,7 @@
 			)
 		)
 		(point
-			(at 185.166745 -60.267686)
+			(at 217.626945 31.934314)
 			(size 1.27)
 			(layer "F.Fab")
 			(uuid "7f3f49c1-bf6e-4ba6-ad02-c0e1332e58c4")
@@ -11310,7 +11442,7 @@
 	(footprint "Package_DIP:DIP-14_W7.62mm_Socket"
 		(layer "F.Cu")
 		(uuid "e369b19b-678d-4d6f-9953-33cfad40c053")
-		(at 219.964745 -70.422686)
+		(at 254.512545 28.124314)
 		(descr "14-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U6"
@@ -11525,7 +11657,7 @@
 			)
 		)
 		(point
-			(at 223.774745 -62.802686)
+			(at 258.322545 35.744314)
 			(size 1.27)
 			(layer "F.Fab")
 			(uuid "41c3edc2-f0ef-4f1f-b0c7-ba340b0ba437")
@@ -11701,13 +11833,13 @@
 	(footprint "Package_DIP:DIP-14_W7.62mm_Socket"
 		(layer "F.Cu")
 		(uuid "ef164080-69b6-441b-bfea-f29696a332fc")
-		(at 133.096745 -94.557686)
+		(at 213.816945 48.260314)
 		(descr "14-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U2"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
-			(uuid "66fbe2e7-d542-4e64-b6b7-951c2f5c1359")
+			(uuid "2a2ee635-5bf0-4e4c-b542-182c35ee415d")
 			(effects
 				(font
 					(size 1 1)
@@ -11718,7 +11850,7 @@
 		(property "Value" "74HC02"
 			(at 3.81 17.57 0)
 			(layer "F.Fab")
-			(uuid "59261d70-b983-4456-9318-300276338c06")
+			(uuid "f2f1d64b-add7-4a91-8301-5bd84f9f9a20")
 			(effects
 				(font
 					(size 1 1)
@@ -11730,7 +11862,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5b2ffea1-ba69-40e1-ad7f-42907b1268ca")
+			(uuid "64ac2a1b-ae94-416f-ad10-4fb48a48c492")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11741,7 +11873,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f804e429-f6aa-42f6-981e-aedc6531ed62")
+			(uuid "e17fecc5-5564-46ef-9b45-1714660276af")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11932,7 +12064,7 @@
 			)
 		)
 		(point
-			(at 136.906745 -86.937686)
+			(at 217.626945 55.880314)
 			(size 1.27)
 			(layer "F.Fab")
 			(uuid "f8e1747a-77ce-474c-9c87-92ecbb6be2fc")
