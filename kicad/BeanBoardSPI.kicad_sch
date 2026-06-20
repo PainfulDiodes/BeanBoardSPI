@@ -13534,9 +13534,8 @@
 				)
 			)
 		)
-		(property "Value" "Jumper_2_Open"
-			(at 163.83 152.146 0)
-			(hide yes)
+		(property "Value" "CLK"
+			(at 172.466 149.86 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15592,9 +15591,8 @@
 				)
 			)
 		)
-		(property "Value" "Jumper_2_Bridged"
-			(at 163.83 163.83 0)
-			(hide yes)
+		(property "Value" "CLK/4"
+			(at 164.338 164.338 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17364,9 +17362,8 @@
 				)
 			)
 		)
-		(property "Value" "Jumper_2_Open"
-			(at 163.83 158.496 0)
-			(hide yes)
+		(property "Value" "CLK/2"
+			(at 173.228 154.94 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

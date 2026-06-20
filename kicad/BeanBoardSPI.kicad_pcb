@@ -688,9 +688,9 @@
 				)
 			)
 		)
-		(property "Value" "Jumper_2_Open"
+		(property "Value" "CLK/2"
 			(at -0.005 6.858 180)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "38f55fe8-c931-4ff9-b8d5-56c860b93d8e")
 			(effects
 				(font
@@ -3531,7 +3531,7 @@
 		(tags "Through hole pin header THT 1x10 2.54mm single row")
 		(property "Reference" "J4"
 			(at 0 -2.33 0)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "bd4255b8-0c60-417c-b7df-f1da10976a59")
 			(effects
 				(font
@@ -6232,7 +6232,7 @@
 		(tags "Through hole pin header THT 1x10 2.54mm single row")
 		(property "Reference" "J6"
 			(at 0 -2.33 0)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "a311f8c2-17cc-47f1-a8be-d081362cf047")
 			(effects
 				(font
@@ -7257,9 +7257,9 @@
 				)
 			)
 		)
-		(property "Value" "Jumper_2_Open"
+		(property "Value" "CLK"
 			(at 0 5.837 180)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "5e22c0d0-75ca-4d93-b5fc-0c1d47696ed5")
 			(effects
 				(font
@@ -8300,7 +8300,7 @@
 			)
 		)
 		(property ki_fp_filters "SO14* DIP*W7.62mm*")
-		(path "/a98fc21e-2c5c-47eb-b8af-13f676a96a39")
+		(path "/1419ac47-cb9b-4547-b9b0-0dcc577eac80")
 		(sheetname "/")
 		(sheetfile "BeanBoardSPI.kicad_sch")
 		(units
@@ -8661,9 +8661,9 @@
 				)
 			)
 		)
-		(property "Value" "Jumper_2_Bridged"
+		(property "Value" "CLK/4"
 			(at -0.259 6.858 180)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "88977a66-9bdb-4b1d-a5f3-7ef7cca9454e")
 			(effects
 				(font
