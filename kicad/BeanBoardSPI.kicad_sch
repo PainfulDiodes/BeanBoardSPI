@@ -3043,7 +3043,7 @@
 					)
 				)
 			)
-			(property "ki_fp_filters" "TSSOP*4.4x6.5mm*P0.65mm* SSOP*4.4x6.5mm*P0.65mm* Package_DIP:DIP-20_W7.62mm"
+			(property "ki_fp_filters" "TSSOP*4.4x6.5mm*P0.65mm* SSOP*4.4x6.5mm*P0.65mm* Package_DIP:DIP-20_W7.62mm_Socket"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -12735,7 +12735,7 @@
 			)
 		)
 		(property "Value" "74HC74"
-			(at 135.89 151.13 0)
+			(at 153.416 134.874 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13679,7 +13679,7 @@
 		(dnp no)
 		(uuid "2a29f24f-05d5-4c1a-afcf-bc81d2fdada6")
 		(property "Reference" "U7"
-			(at 215.9 78.74 0)
+			(at 230.632 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13689,7 +13689,7 @@
 			)
 		)
 		(property "Value" "74HC244"
-			(at 215.9 111.76 0)
+			(at 231.648 77.47 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15895,7 +15895,7 @@
 		(dnp no)
 		(uuid "a13fc6d7-5fb5-42a6-a5b4-a188f80d053b")
 		(property "Reference" "U8"
-			(at 215.9 129.54 0)
+			(at 231.648 125.476 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15905,7 +15905,7 @@
 			)
 		)
 		(property "Value" "74HC244"
-			(at 215.9 162.56 0)
+			(at 232.156 128.016 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17769,7 +17769,7 @@
 		(dnp no)
 		(uuid "f7e9b5fb-126e-4909-b42e-5acded3892fb")
 		(property "Reference" "U4"
-			(at 132.08 157.48 0)
+			(at 149.352 154.94 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17780,7 +17780,7 @@
 			)
 		)
 		(property "Value" "74HC74"
-			(at 135.89 172.72 0)
+			(at 149.098 157.48 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

@@ -72,7 +72,7 @@
 				)
 			)
 		)
-		(property "ki_fp_filters" "TSSOP*4.4x6.5mm*P0.65mm* SSOP*4.4x6.5mm*P0.65mm* Package_DIP:DIP-20_W7.62mm"
+		(property "ki_fp_filters" "TSSOP*4.4x6.5mm*P0.65mm* SSOP*4.4x6.5mm*P0.65mm* Package_DIP:DIP-20_W7.62mm_Socket"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
