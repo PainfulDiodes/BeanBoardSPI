@@ -164,7 +164,7 @@
 		(tags "C Disc series Radial pin pitch 2.50mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C2"
 			(at 1.25 -2.5 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "5fa4c03d-a0f4-4f7e-b094-2d53dd2f5bb6")
 			(effects
 				(font
@@ -690,7 +690,7 @@
 		)
 		(property "Value" "Jumper_2_Open"
 			(at -0.005 6.858 180)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "38f55fe8-c931-4ff9-b8d5-56c860b93d8e")
 			(effects
 				(font
@@ -1251,7 +1251,7 @@
 		(descr "16-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U10"
-			(at 3.81 -2.33 90)
+			(at 3.7582 16.388 180)
 			(layer "F.SilkS")
 			(uuid "29bb6ad5-7c12-4c0f-8e5a-159faea9451e")
 			(effects
@@ -1262,8 +1262,8 @@
 			)
 		)
 		(property "Value" "74HC165"
-			(at 3.81 20.11 90)
-			(layer "F.Fab")
+			(at 3.81 8.89 180)
+			(layer "F.SilkS")
 			(uuid "bfed5ac4-6a66-49c9-9d57-6aec6cafa207")
 			(effects
 				(font
@@ -1936,7 +1936,7 @@
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U7"
-			(at 3.81 -2.33 90)
+			(at 3.556 20.579 180)
 			(layer "F.SilkS")
 			(uuid "83c60f94-0f8d-4aec-b4c5-f8200f907728")
 			(effects
@@ -1947,8 +1947,8 @@
 			)
 		)
 		(property "Value" "74HC244"
-			(at 3.81 25.19 90)
-			(layer "F.Fab")
+			(at 3.81 11.43 180)
+			(layer "F.SilkS")
 			(uuid "45e598a1-4a59-463f-8e3f-2b8af3db69fb")
 			(effects
 				(font
@@ -2711,7 +2711,7 @@
 		(tags "C Disc series Radial pin pitch 2.50mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C5"
 			(at 1.25 -2.5 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "08e0a873-edfb-4030-8791-e78f3c67dbae")
 			(effects
 				(font
@@ -2879,7 +2879,7 @@
 		(tags "C Disc series Radial pin pitch 2.50mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C11"
 			(at 1.25 -2.5 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "f745da95-f01f-44df-b609-6fb8b975309d")
 			(effects
 				(font
@@ -3047,7 +3047,7 @@
 		(tags "C Disc series Radial pin pitch 2.50mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C3"
 			(at 1.25 -2.5 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "830fbab4-9420-48d3-9eff-32c17a22bd48")
 			(effects
 				(font
@@ -4478,7 +4478,7 @@
 		(descr "16-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U12"
-			(at 3.81 -2.33 90)
+			(at 3.6312 16.388 180)
 			(layer "F.SilkS")
 			(uuid "1277844f-6e76-43d3-8a33-dbb8a1529997")
 			(effects
@@ -4489,8 +4489,8 @@
 			)
 		)
 		(property "Value" "74HC165"
-			(at 3.81 20.11 90)
-			(layer "F.Fab")
+			(at 3.81 8.89 180)
+			(layer "F.SilkS")
 			(uuid "e768f986-a5ce-4082-9fcd-1e17c5289b0f")
 			(effects
 				(font
@@ -4893,7 +4893,7 @@
 		(descr "14-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U4"
-			(at 3.81 -2.33 90)
+			(at 3.5042 13.97 180)
 			(layer "F.SilkS")
 			(uuid "2c63219c-8363-46db-8bb4-d4a05f809cbb")
 			(effects
@@ -4904,8 +4904,8 @@
 			)
 		)
 		(property "Value" "74HC74"
-			(at 3.81 17.57 90)
-			(layer "F.Fab")
+			(at 3.81 7.62 180)
+			(layer "F.SilkS")
 			(uuid "121c9518-382e-40f4-b87a-131683b83086")
 			(effects
 				(font
@@ -5292,7 +5292,7 @@
 		(descr "16-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U11"
-			(at 3.81 -2.33 90)
+			(at 3.7582 15.758 180)
 			(layer "F.SilkS")
 			(uuid "0e0131a4-8e96-4c4b-83ee-3589c2af945b")
 			(effects
@@ -5303,8 +5303,8 @@
 			)
 		)
 		(property "Value" "74HC165"
-			(at 3.81 20.11 90)
-			(layer "F.Fab")
+			(at 3.81 8.89 180)
+			(layer "F.SilkS")
 			(uuid "762b76e6-ebbd-4ffb-97c9-81ae1c2c541a")
 			(effects
 				(font
@@ -5709,7 +5709,7 @@
 		(tags "Through hole pin header THT 1x16 2.54mm single row")
 		(property "Reference" "J2"
 			(at 0 -2.33 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "c4c03442-5594-45f0-9a3f-c2de0a4e4244")
 			(effects
 				(font
@@ -6063,7 +6063,7 @@
 		(tags "C Disc series Radial pin pitch 2.50mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C10"
 			(at 1.25 -2.5 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "061e46fc-cad9-41f3-a734-567a26889292")
 			(effects
 				(font
@@ -6517,7 +6517,7 @@
 		(descr "16-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U9"
-			(at 3.81 -2.33 90)
+			(at 3.6312 16.007 180)
 			(layer "F.SilkS")
 			(uuid "cf776ed8-e2b5-427f-986d-4b035771dcaa")
 			(effects
@@ -6528,8 +6528,8 @@
 			)
 		)
 		(property "Value" "74HC165"
-			(at 3.81 20.11 90)
-			(layer "F.Fab")
+			(at 3.81 8.89 180)
+			(layer "F.SilkS")
 			(uuid "f8152fce-ee24-4472-8e16-61851318a1cb")
 			(effects
 				(font
@@ -7259,7 +7259,7 @@
 		)
 		(property "Value" "Jumper_2_Open"
 			(at 0 5.837 180)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "5e22c0d0-75ca-4d93-b5fc-0c1d47696ed5")
 			(effects
 				(font
@@ -7506,7 +7506,7 @@
 		(tags "C Disc series Radial pin pitch 2.50mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C7"
 			(at 1.25 -2.5 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "0a2719af-92cb-4eac-9d94-952f2ae9e6bf")
 			(effects
 				(font
@@ -7673,7 +7673,7 @@
 		(descr "16-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U3"
-			(at 3.81 -2.33 90)
+			(at 3.7582 15.504 180)
 			(layer "F.SilkS")
 			(uuid "c5a12b43-5443-41de-9a77-2f71d0836080")
 			(effects
@@ -7684,8 +7684,8 @@
 			)
 		)
 		(property "Value" "74HC138"
-			(at 3.81 20.11 90)
-			(layer "F.Fab")
+			(at 3.81 8.89 180)
+			(layer "F.SilkS")
 			(uuid "9c42fe84-441f-414a-84e8-2290a3c1d026")
 			(effects
 				(font
@@ -8089,7 +8089,7 @@
 		(tags "C Disc series Radial pin pitch 2.50mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C12"
 			(at 1.25 -2.5 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "ace95575-54bb-4d89-b648-5f88b9185963")
 			(effects
 				(font
@@ -8256,7 +8256,7 @@
 		(descr "14-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U2"
-			(at 3.81 -2.33 90)
+			(at 3.556 13.848 180)
 			(layer "F.SilkS")
 			(uuid "7f29dd39-e66c-4d32-8f99-e6c32988b746")
 			(effects
@@ -8267,8 +8267,8 @@
 			)
 		)
 		(property "Value" "74HC02"
-			(at 3.81 17.57 90)
-			(layer "F.Fab")
+			(at 3.81 7.62 180)
+			(layer "F.SilkS")
 			(uuid "7e1b3aa7-6f11-445d-a761-45db33dec5c8")
 			(effects
 				(font
@@ -8663,7 +8663,7 @@
 		)
 		(property "Value" "Jumper_2_Bridged"
 			(at -0.259 6.858 180)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "88977a66-9bdb-4b1d-a5f3-7ef7cca9454e")
 			(effects
 				(font
@@ -8910,7 +8910,7 @@
 		(tags "C Disc series Radial pin pitch 2.50mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C1"
 			(at 1.25 -2.5 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "08dca5ef-2dd5-41ed-90ba-4a0241c02bf4")
 			(effects
 				(font
@@ -9078,7 +9078,7 @@
 		(tags "C Disc series Radial pin pitch 2.50mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C4"
 			(at 1.25 -2.5 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "ec84f289-7a2a-4e08-ae2a-957f35fac79e")
 			(effects
 				(font
@@ -9247,7 +9247,7 @@
 		(tags "Through hole pin header THT 1x16 2.54mm single row")
 		(property "Reference" "J1"
 			(at 0 -2.33 270)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "8ddf6937-db1b-432e-bbcb-e0aeeb8242c9")
 			(effects
 				(font
@@ -9601,7 +9601,7 @@
 		(tags "C Disc series Radial pin pitch 2.50mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C9"
 			(at 1.25 -2.5 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "0dabbc1a-c6f4-4d69-b18c-2e4cc6335537")
 			(effects
 				(font
@@ -10293,7 +10293,7 @@
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U8"
-			(at 3.81 -2.33 90)
+			(at 3.6312 20.579 180)
 			(layer "F.SilkS")
 			(uuid "52d38eb0-62fd-4612-8bb3-6ecae16a366e")
 			(effects
@@ -10304,8 +10304,8 @@
 			)
 		)
 		(property "Value" "74HC244"
-			(at 3.81 25.19 90)
-			(layer "F.Fab")
+			(at 3.81 11.43 180)
+			(layer "F.SilkS")
 			(uuid "1e68ce48-6a66-4738-86a0-56a645859b41")
 			(effects
 				(font
@@ -11156,7 +11156,7 @@
 		(tags "C Disc series Radial pin pitch 2.50mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C6"
 			(at 1.25 -2.5 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "883e1f17-31e8-4af6-afbf-355aa3510a00")
 			(effects
 				(font
@@ -11323,7 +11323,7 @@
 		(descr "20-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U5"
-			(at 3.81 -2.33 90)
+			(at 3.8852 19.944 180)
 			(layer "F.SilkS")
 			(uuid "dc96cec7-0688-4084-ad2b-71d1daf8b72d")
 			(effects
@@ -11334,8 +11334,8 @@
 			)
 		)
 		(property "Value" "74HC373"
-			(at 3.81 25.19 90)
-			(layer "F.Fab")
+			(at 3.81 11.43 180)
+			(layer "F.SilkS")
 			(uuid "4be9ec95-b76b-4c45-98cd-a5f5ea79a3f0")
 			(effects
 				(font
@@ -11782,7 +11782,7 @@
 		(descr "14-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U6"
-			(at 3.81 -2.33 90)
+			(at 3.81 13.97 180)
 			(layer "F.SilkS")
 			(uuid "49863e90-d913-4c26-af6c-729acaab2d80")
 			(effects
@@ -11793,8 +11793,8 @@
 			)
 		)
 		(property "Value" "74HC164"
-			(at 3.81 17.57 90)
-			(layer "F.Fab")
+			(at 3.81 7.62 180)
+			(layer "F.SilkS")
 			(uuid "602f71f9-725a-4cd0-93f6-d685d99f3176")
 			(effects
 				(font
@@ -12173,7 +12173,7 @@
 		(descr "14-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils), Socket")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil Socket")
 		(property "Reference" "U1"
-			(at 3.81 -2.33 90)
+			(at 3.5042 13.594 180)
 			(layer "F.SilkS")
 			(uuid "53d0c1b4-c649-4fce-a357-d77831f9a75d")
 			(effects
@@ -12184,8 +12184,8 @@
 			)
 		)
 		(property "Value" "74HC02"
-			(at 3.81 17.57 90)
-			(layer "F.Fab")
+			(at 3.81 7.62 180)
+			(layer "F.SilkS")
 			(uuid "640a1f12-f5ba-42c7-9bc4-72bec7ad4eb5")
 			(effects
 				(font
@@ -12569,7 +12569,7 @@
 		(tags "C Disc series Radial pin pitch 2.50mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C8"
 			(at 1.25 -2.5 90)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "55b42957-7e5b-4508-b73c-f48dc7a91590")
 			(effects
 				(font
@@ -26374,12 +26374,6 @@
 				(xy 101.6005 14.8565) (xy 101.620185 14.789461) (xy 101.672989 14.743706) (xy 101.7245 14.7325)
 				(xy 300.8655 14.7325)
 			)
-		)
-	)
-	(group ""
-		(uuid "5a055e10-4f45-46e6-8749-f1eefcc400a1")
-		(members "0c864883-0111-4340-bfe0-84f1675fd135" "96e0c5d6-4f6b-4525-ad5c-5474cd9e44a6"
-			"b21d4865-3b23-42a9-b103-d4bb8ccda7d8"
 		)
 	)
 	(group ""
