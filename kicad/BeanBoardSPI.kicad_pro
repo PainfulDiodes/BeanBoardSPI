@@ -526,7 +526,7 @@
     "page_layout_descr_file": "kicad-embed://empty.kicad_wks"
   },
   "schematic": {
-    "annotate_start_num": 1000,
+    "annotate_start_num": 0,
     "annotation": {
       "method": 0,
       "sort_order": 0
@@ -657,7 +657,7 @@
         "uuid": "6c08ad2a-e233-4d4c-8add-9bc0e49a4487"
       }
     ],
-    "used_designators": "J1001-1015,C1001-1010,JP1001-1003,#FLG1001-1002,U1-3,U5-6,U11-15,U1001-1012",
+    "used_designators": "J1-15,C1-12,U1-12,JP1-3,#FLG1-2",
     "variants": []
   },
   "sheets": [
