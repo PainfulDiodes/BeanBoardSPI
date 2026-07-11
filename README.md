@@ -1,6 +1,6 @@
 # Hardware SPI Controller for Beanboard (Rev B)
 
-**NOTE: this design is EXPERIMENTAL, and is a WORK IN PROGRESS**
+**NOTE: this design is EXPERIMENTAL**
 
 Rev A was based on 74299 universal shift-register with synchronous parallel load. This was a flawed design.
 
