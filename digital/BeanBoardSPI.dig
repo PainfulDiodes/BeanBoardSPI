@@ -642,7 +642,12 @@
     </visualElement>
     <visualElement>
       <elementName>ScopeTrigger</elementName>
-      <elementAttributes/>
+      <elementAttributes>
+        <entry>
+          <string>maxStepCount</string>
+          <int>50</int>
+        </entry>
+      </elementAttributes>
       <pos x="-1800" y="-640"/>
     </visualElement>
     <visualElement>
@@ -1587,10 +1592,6 @@
     <visualElement>
       <elementName>In</elementName>
       <elementAttributes>
-        <entry>
-          <string>addValueToGraph</string>
-          <boolean>false</boolean>
-        </entry>
         <entry>
           <string>Label</string>
           <string>/WR</string>
@@ -3784,29 +3785,41 @@ Bits</string>
     </wire>
   </wires>
   <measurementOrdering>
-    <string>CLK</string>
     <string>SCK</string>
     <string>SER-OUT</string>
     <string>SER-IN</string>
     <string>/CS0</string>
-    <string>DO0</string>
-    <string>DO1</string>
-    <string>DO2</string>
-    <string>DO3</string>
-    <string>DO4</string>
-    <string>DO5</string>
-    <string>DO6</string>
-    <string>DO7</string>
     <string>enable</string>
-    <string>DI0</string>
-    <string>DI1</string>
-    <string>DI2</string>
-    <string>DI3</string>
-    <string>DI4</string>
-    <string>DI5</string>
-    <string>DI6</string>
-    <string>DI7</string>
-    <string>/SER-WRITE</string>
-    <string>CS0</string>
+    <string>CPU-CLK</string>
+    <string>/WR</string>
+    <string>/CS1</string>
+    <string>/CS2</string>
+    <string>/CS3</string>
+    <string>/CS4</string>
+    <string>/CS5</string>
+    <string>/CS6</string>
+    <string>/SRESET</string>
+    <string>D0&apos;</string>
+    <string>D0</string>
+    <string>D1&apos;</string>
+    <string>D1</string>
+    <string>D2&apos;</string>
+    <string>D2</string>
+    <string>D3&apos;</string>
+    <string>D3</string>
+    <string>D4&apos;</string>
+    <string>D4</string>
+    <string>D5&apos;</string>
+    <string>D5</string>
+    <string>D6&apos;</string>
+    <string>D6</string>
+    <string>D7&apos;</string>
+    <string>D7</string>
+    <string>/RD</string>
+    <string>/IORQ</string>
+    <string>A1</string>
+    <string>A2</string>
+    <string>A3</string>
+    <string>/enable-output</string>
   </measurementOrdering>
 </circuit>
