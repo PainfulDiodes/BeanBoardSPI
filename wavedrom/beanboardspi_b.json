@@ -1,0 +1,13 @@
+// treating a clock as a regular signal
+
+{
+"signal": [
+    { "name": "CPU", "wave": "x8.4.7.................8.5.x.", "data": ["WR Ctrl", "WR Data", "RD Status Loop", "WR Ctrl", "RD Data"] },
+    { "name": "CS",   "wave": "1.0.....................1...." },
+    { "name": "SCLK", "wave": "0......1010101010101010......" },
+    { "name": "MISO", "wave": "x.....5.5.5.5.5.5.5.5.x......", "data": ["7 (MSB)", "6", "5", "4", "3", "2", "1", "0 (LSB)"] },
+    { "name": "MOSI", "wave": "x.....4.4.4.4.4.4.4.4.x......", "data": ["7 (MSB)", "6", "5", "4", "3", "2", "1", "0 (LSB)"] }
+],
+"foot": { "text": "SPI Mode 0 (CPOL=0, CPHA=0)" },
+"head": { "text": "BeanBoardSPI" }
+}
