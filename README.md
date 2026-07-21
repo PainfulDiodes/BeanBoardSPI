@@ -10,9 +10,11 @@ For background, please see the [accompanying blog posts](https://painfuldiodes.w
 
 *Thank you to those helpful folks at [PCBWay](https://pcbway.com) who sponsored this build and provided the PCBs*
 
-Schematic: [kicad/BeanBoardSPI.pdf](kicad/BeanBoardSPI.pdf)
+Schematic PDF: [kicad/BeanBoardSPI.pdf](kicad/BeanBoardSPI.pdf)
 
 &nbsp;
+
+![beanboardspi-schematic](kicad/BeanBoardSPI.png)
 
 ![beanboardspi-revb-populated](images/beanboardspi-revb-populated.jpg)
 BeanBoardSPI Rev B populated with Adafruit SPI modules
