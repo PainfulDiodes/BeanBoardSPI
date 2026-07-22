@@ -9,3 +9,9 @@ The intent of this design is to provide access to an [RA8875](https://www.adafru
 For background, please see the [accompanying blog posts](https://painfuldiodes.wordpress.com/category/beanboardspi/).
 
 &nbsp;
+
+![schematic](./kicad/SPI_beanboard_2.png)
+
+![breadboard](./images/spi_breadboard_ra8875.jpg)
+
+![snake](./images/snake-beanboard-tft.jpg)
