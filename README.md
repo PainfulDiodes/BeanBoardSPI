@@ -1,4 +1,6 @@
-# Hardware SPI Controller for Beanboard (Rev A)
+# BeanBoardSPI Rev A
+
+SPI controller in 74' logic for [BeanBoard](https://github.com/PainfulDiodes/BeanBoard)/[BeanZee](https://github.com/PainfulDiodes/BeanZee) Z80 computer.
 
 **NOTE: this design is EXPERIMENTAL, and this revision has known flaws. It is retained for reference**
 
