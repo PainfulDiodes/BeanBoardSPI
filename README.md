@@ -1,4 +1,6 @@
-# Hardware SPI Controller for Beanboard (v1 Rev B)
+# BeanBoardSPI Rev B
+
+_SPI controller in 74' logic for [BeanBoard](https://github.com/PainfulDiodes/BeanBoard)/[BeanZee](https://github.com/PainfulDiodes/BeanZee) Z80 computer._
 
 SPI is a fast serial interface commonly used for connecting microcontrollers to peripherals like SD cards, displays and sensors.
 
