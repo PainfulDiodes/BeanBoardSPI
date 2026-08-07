@@ -1,8 +1,10 @@
 # BeanBoardSPI Rev A
 
-SPI controller in 74' logic for [BeanBoard](https://github.com/PainfulDiodes/BeanBoard)/[BeanZee](https://github.com/PainfulDiodes/BeanZee) Z80 computer.
+_SPI controller in 74' logic for [BeanBoard](https://github.com/PainfulDiodes/BeanBoard)/[BeanZee](https://github.com/PainfulDiodes/BeanZee) Z80 computer._
 
-**NOTE: this design is EXPERIMENTAL, and this revision has known flaws. It is retained for reference**
+---
+
+## NOTE: this design is EXPERIMENTAL, and this revision has known flaws. It is retained for reference
 
 There is a problem with the SPI clock. There are jumpers to allow selection of division of the CPU clock (10MHz): /1 /2 /4. I expected to use CLK/4 (2.5 MHz), but this exposed a defect in the design.
 
