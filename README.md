@@ -4,7 +4,7 @@ _SPI controller in 74' logic for [BeanBoard](https://github.com/PainfulDiodes/Be
 
 SPI is a fast serial interface commonly used for connecting microcontrollers to peripherals like SD cards, displays and sensors.
 
-The intent of this design is to provide access to an [RA8875](https://www.adafruit.com/product/1590) TFT panel controller and to [flash memory modules](https://www.adafruit.com/product/5635). The [Marvin](https://github.com/PainfulDiodes/marvin) monitor program provides software support for this configuration.
+The intent of this design is to provide access to an [RA8875](https://www.adafruit.com/product/1590) TFT panel controller and to [flash memory modules](https://www.adafruit.com/product/5635) on my Z80 homebrew computer. The [Marvin](https://github.com/PainfulDiodes/marvin) monitor program provides software support for this configuration.
 
 For background, please see the [accompanying blog posts](https://painfuldiodes.wordpress.com/category/beanboardspi/).
 
